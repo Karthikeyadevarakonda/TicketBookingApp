@@ -26,8 +26,6 @@ Font Awesome
 Google Fonts (Inter)
 
 Getting Started
-Clone the repository:
-git clone https://github.com/your-username/my-theatre.git
 
 Navigate to the project directory:
 cd my-theatre
